@@ -7,8 +7,8 @@ Scan Code by Kotlin &amp; Mobile Vision API
 ・解析後彈出內容<br/>
 <br/>
 <br/>
-![image](https://github.com/chiuchingwei/BarCodeScanner-Kotlin/blob/master/sample.gif)
-<br/>
-<br/>
 #### 1.0.0 
 ・展示掃描 QRCode<br/>
+<br/>
+<br/>
+![image](https://github.com/chiuchingwei/BarCodeScanner-Kotlin/blob/master/sample.gif)
