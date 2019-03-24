@@ -6,7 +6,6 @@ Scan Code by Kotlin &amp; Mobile Vision API
 ・透過 Mobile Vision API 解析 QRCode<br/>
 ・解析後彈出內容<br/>
 <br/>
-<br/>
 #### 1.0.0 
 ・展示掃描 QRCode<br/>
 <br/>
