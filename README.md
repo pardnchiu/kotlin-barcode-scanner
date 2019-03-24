@@ -1,5 +1,5 @@
 # BarCodeScanner-Kotlin
-Scan QRCode by Kotlin &amp; Mobile Vision API
+Scan Code by Kotlin &amp; Mobile Vision API
 <br/>
 #### 主要展示功能
 ・開啟相機功能<br/>
@@ -8,3 +8,7 @@ Scan QRCode by Kotlin &amp; Mobile Vision API
 <br/>
 <br/>
 ![image](https://github.com/chiuchingwei/BarCodeScanner-Kotlin/blob/master/sample.gif)
+<br/>
+<br/>
+#### 1.0.0 
+・展示掃描 QRCode<br/>
