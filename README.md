@@ -7,4 +7,4 @@ Scan QRCode by Kotlin &amp; google vision api
 ・解析後彈出內容<br/>
 <br/>
 <br/>
-![image](https://github.com/chiuchingwei/UploadSingleFile-Swift/blob/master/sample.gif)
+![image](https://github.com/chiuchingwei/BarCodeScanner-Kotlin/blob/master/sample.gif)
