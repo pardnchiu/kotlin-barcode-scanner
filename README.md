@@ -1,4 +1,4 @@
-# android-kotlin-barcodeScanner
+# barcodeScanner-kotlin
 Scan Code by Kotlin &amp; Mobile Vision API
 <br/>
 #### 主要展示功能
