@@ -1,4 +1,4 @@
-# sample-android-barcode-scanner
+# Barcode Scanner
 
 Scan Code by Kotlin &amp; Mobile Vision API
 
